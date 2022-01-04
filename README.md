@@ -10,7 +10,7 @@ This is the base page class. Whenever I need to store any page of the applicatio
 ### CucumberRunner
 You need to execute this class if you want to perform any test cases in the feature file.
 
-- Chose a test case tag from Login.feature file then write it to "tag" section.
+- Chose a test case tag from Login.feature file then write it to "taaaaaag" section.
 - If you keep tag section as empty, runner class will execute all exist scenarios.
 
 ## StepDefinitions Package
